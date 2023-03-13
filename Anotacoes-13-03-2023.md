@@ -7,5 +7,5 @@
     Exemplo da internet:  
     <img src="https://i.stack.imgur.com/0pzVS.png"><br>
     Exemplo Luque:
-    <img src="https://imgur.com/a/wSie7e6"><br>
-    <&lt;include&lt; e <&lt;extend>&lt;
+    <img src="https://i.imgur.com/uFoMkBS.png"><br>
+    <\include> e <\extend>
