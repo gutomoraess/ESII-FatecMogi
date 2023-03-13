@@ -6,3 +6,4 @@
     O ator interage com o caso de uso.  
     Exemplo:  
     <img src="https://i.stack.imgur.com/0pzVS.png"><br>
+    <<include>> e <<extend>>
