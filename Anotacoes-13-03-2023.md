@@ -8,7 +8,7 @@
     <img src="https://i.stack.imgur.com/0pzVS.png"><br>
     Exemplo Luque:  
     <img src="https://i.imgur.com/uFoMkBS.png"><br>
-    &lt;include&gt; e &lt;extend&gt;
+    &lt;include&gt; e &lt;extend&gt;  
     Generalização (triângulo na ponta) -> relacionamento entre atores ou entre casos de usos
 
     - Include:  
@@ -21,4 +21,4 @@
     Quando o caso de uso B generaliza o caso de uso C isso significa que, além de fazer tudo que nele está especificado (ele = B), ele também executará tudo que está especificado no caso de uso C.
     A direção do relacionamento é sempre do generalizador (aqui o caso de uso B) para o generalizado (caso de uso C).
 
-    [Fonte](https://www.ateomomento.com.br/caso-de-uso-include-extend-e-generalizacao/)
+    - [Fonte](https://www.ateomomento.com.br/caso-de-uso-include-extend-e-generalizacao/)
