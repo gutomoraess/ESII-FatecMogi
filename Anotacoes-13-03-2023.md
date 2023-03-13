@@ -6,6 +6,6 @@
     O ator interage com o caso de uso.  
     Exemplo da internet:  
     <img src="https://i.stack.imgur.com/0pzVS.png"><br>
-    Exemplo Luque:
+    Exemplo Luque:  
     <img src="https://i.imgur.com/uFoMkBS.png"><br>
-    <\include> e <\extend>
+    &lt;include&gt; e &lt;extend&gt;
